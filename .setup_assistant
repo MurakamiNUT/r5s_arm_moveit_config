@@ -8,4 +8,8 @@ moveit_setup_assistant_config:
   CONFIG:
     author_name: murakami
     author_email: s173080@stn.nagaokaut.ac.jp
+<<<<<<< HEAD
     generated_timestamp: 1606371221
+=======
+    generated_timestamp: 1600762177
+>>>>>>> 50b6ede30c53f4e4f2c6fcce5bac338932e941fc

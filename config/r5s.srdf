@@ -25,6 +25,10 @@
     <disable_collisions link1="base_link" link2="body3_link" reason="Never" />
     <disable_collisions link1="body0_link_yaw" link2="body1_link" reason="Adjacent" />
     <disable_collisions link1="body0_link_yaw" link2="body2_link" reason="Never" />
+<<<<<<< HEAD
+=======
+    <disable_collisions link1="body0_link_yaw" link2="body3_link" reason="Never" />
+>>>>>>> 50b6ede30c53f4e4f2c6fcce5bac338932e941fc
     <disable_collisions link1="body1_link" link2="body2_link" reason="Adjacent" />
     <disable_collisions link1="body2_link" link2="body3_link" reason="Adjacent" />
     <disable_collisions link1="body3_link" link2="body4_link" reason="Adjacent" />

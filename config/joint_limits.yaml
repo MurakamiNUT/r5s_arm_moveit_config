@@ -4,31 +4,55 @@
 joint_limits:
   body1_joint:
     has_velocity_limits: true
+<<<<<<< HEAD
     max_velocity: 3.1415
+=======
+    max_velocity: 100
+>>>>>>> 50b6ede30c53f4e4f2c6fcce5bac338932e941fc
     has_acceleration_limits: false
     max_acceleration: 0
   body2_joint:
     has_velocity_limits: true
+<<<<<<< HEAD
     max_velocity: 3.1415
+=======
+    max_velocity: 100
+>>>>>>> 50b6ede30c53f4e4f2c6fcce5bac338932e941fc
     has_acceleration_limits: false
     max_acceleration: 0
   body3_joint:
     has_velocity_limits: true
+<<<<<<< HEAD
     max_velocity: 3.1415
+=======
+    max_velocity: 100
+>>>>>>> 50b6ede30c53f4e4f2c6fcce5bac338932e941fc
     has_acceleration_limits: false
     max_acceleration: 0
   body4_joint:
     has_velocity_limits: true
+<<<<<<< HEAD
     max_velocity: 3.1415
+=======
+    max_velocity: 100
+>>>>>>> 50b6ede30c53f4e4f2c6fcce5bac338932e941fc
     has_acceleration_limits: false
     max_acceleration: 0
   body5_joint:
     has_velocity_limits: true
+<<<<<<< HEAD
     max_velocity: 3.1415
+=======
+    max_velocity: 100
+>>>>>>> 50b6ede30c53f4e4f2c6fcce5bac338932e941fc
     has_acceleration_limits: false
     max_acceleration: 0
   body6_joint:
     has_velocity_limits: true
+<<<<<<< HEAD
     max_velocity: 3.1415
+=======
+    max_velocity: 100
+>>>>>>> 50b6ede30c53f4e4f2c6fcce5bac338932e941fc
     has_acceleration_limits: false
     max_acceleration: 0
